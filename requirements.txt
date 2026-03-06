@@ -1,0 +1,17 @@
+ipykernel
+pandas
+matplotlib
+plotly
+numpy
+fastapi
+uvicorn
+scikit-learn
+seaborn
+scipy
+PyYAML
+pymongo
+dill
+evidently
+
+
+-e .
