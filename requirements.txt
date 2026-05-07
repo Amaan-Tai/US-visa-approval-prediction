@@ -12,6 +12,9 @@ PyYAML
 pymongo
 dill
 evidently
-
+imblearn
+xgboost
+catboost 
+libomp
 
 -e .

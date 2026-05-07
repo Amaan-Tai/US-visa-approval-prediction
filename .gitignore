@@ -211,3 +211,5 @@ __marimo__/
 
 # VS Code settings
 .vscode/
+
+catboost_info/
