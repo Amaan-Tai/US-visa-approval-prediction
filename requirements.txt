@@ -16,5 +16,6 @@ imblearn
 xgboost
 catboost 
 libomp
+from_root
 
 -e .
