@@ -8,3 +8,9 @@
 #     a = 2/0
 # except Exception as e:
 #     raise USvisaException(e, sys)
+
+
+# from us_visa_approval_prediction.pipline.training_pipeline import TrainPipeline
+
+# obj = TrainPipeline()
+# obj.run_pipeline()
